@@ -1,3 +1,4 @@
+a = int(input("input number a:"))
 # if文で処理を分岐できる。
 if a == 1:
     print('a is 1')  # if文の式が真のときに実行される。
